@@ -15,7 +15,7 @@ array(
   'attributes'    => array(
     'maxlength'   => 10,
     'placeholder' => 'do stuff',
-    'readyonly'   => 'only-key'
+    'readyonly'   => 'only-key',
     'disabled'    => 'only-key'
   ),
 ),
